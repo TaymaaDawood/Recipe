@@ -22,7 +22,7 @@ to loop over the INGREDINTS
 
 
 */
-
+/*
 let favoriteRecipe =
  {
     recipeTitle:'Kebab',
@@ -40,4 +40,15 @@ let favoriteRecipe =
 
   for(counter=0; counter < directions.length; counter ++){
       console.log(directions[counter]);
-  }
+  }*/
+
+
+
+  /*
+  pseudocode for function fixStart
+
+  cearte a function fixStart 
+    1 argument= string
+
+  
+  */
